@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-05-30 08:01+0000\n"
-"Last-Translator: Neko Nekowazarashi <kodra@nekoweb.my.id>\n"
+"PO-Revision-Date: 2026-10-30 12:11+0000\n"
+"Last-Translator: Riezchy Amien <riezamn@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/quodlibet/"
 "quodlibet/id/>\n"
 "Language: id\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 #: quodlibet/browsers/albums/main.py:222
 msgid "_Title"
@@ -410,7 +410,7 @@ msgstr "Sekitar"
 
 #: quodlibet/browsers/iradio.py:417
 msgid "Jazz"
-msgstr "Jazz"
+msgstr "Jaz"
 
 #: quodlibet/browsers/iradio.py:418 quodlibet/ext/events/equalizer.py:139
 msgid "Classical"
@@ -450,11 +450,11 @@ msgstr "Indie"
 
 #: quodlibet/browsers/iradio.py:427
 msgid "Blues"
-msgstr ""
+msgstr "Blues"
 
 #: quodlibet/browsers/iradio.py:428
 msgid "Soul"
-msgstr ""
+msgstr "Soul"
 
 #: quodlibet/browsers/iradio.py:429
 msgid "Lounge"
@@ -1073,7 +1073,7 @@ msgstr "Buka peramban baru"
 
 #: quodlibet/cli.py:165
 msgid "Show or hide the queue"
-msgstr ""
+msgstr "Tampilkan atau sembunyikan antrean"
 
 #: quodlibet/cli.py:166
 msgid "Filter on a random value"
@@ -1358,7 +1358,7 @@ msgstr "_Teks:"
 
 #: quodlibet/ext/events/animosd/prefs.py:251
 msgid "_Fill:"
-msgstr ""
+msgstr "_Isi:"
 
 #: quodlibet/ext/events/animosd/prefs.py:256
 #: quodlibet/ext/events/synchronizedlyrics.py:66
@@ -1590,7 +1590,7 @@ msgstr "Bangunkan Anda dengan musik keras."
 
 #: quodlibet/ext/events/clock.py:118
 msgid "Lullaby"
-msgstr ""
+msgstr "Ninabobo"
 
 #: quodlibet/ext/events/clock.py:119
 msgid "Fades out and pauses your music."
@@ -1633,15 +1633,15 @@ msgstr "Langsung"
 
 #: quodlibet/ext/events/equalizer.py:47
 msgid "Full Bass & Treble"
-msgstr ""
+msgstr "Bas dan Trebel Penuh"
 
 #: quodlibet/ext/events/equalizer.py:67
 msgid "Club"
-msgstr ""
+msgstr "Klub"
 
 #: quodlibet/ext/events/equalizer.py:71
 msgid "Large Hall"
-msgstr ""
+msgstr "Gedung Pertunjukan"
 
 #: quodlibet/ext/events/equalizer.py:91
 msgid "Party"
@@ -1653,11 +1653,11 @@ msgstr "Lembut"
 
 #: quodlibet/ext/events/equalizer.py:119
 msgid "Full Bass"
-msgstr ""
+msgstr "Bas Penuh"
 
 #: quodlibet/ext/events/equalizer.py:143
 msgid "Reggae"
-msgstr ""
+msgstr "Rege"
 
 #: quodlibet/ext/events/equalizer.py:147
 #, fuzzy
@@ -1671,7 +1671,7 @@ msgstr "Rock Pelan"
 
 #: quodlibet/ext/events/equalizer.py:187
 msgid "Full Treble"
-msgstr ""
+msgstr "Trebel Penuh"
 
 #: quodlibet/ext/events/equalizer.py:207
 msgid "Dance"
@@ -1683,7 +1683,7 @@ msgstr "Tekno"
 
 #: quodlibet/ext/events/equalizer.py:267
 msgid "Ska"
-msgstr ""
+msgstr "Ska"
 
 #: quodlibet/ext/events/equalizer.py:287
 msgid "Laptop"
@@ -1691,7 +1691,7 @@ msgstr "Laptop"
 
 #: quodlibet/ext/events/equalizer.py:334
 msgid "Equalizer"
-msgstr ""
+msgstr "Ekualiser"
 
 #: quodlibet/ext/events/equalizer.py:336
 msgid ""
@@ -1834,13 +1834,15 @@ msgstr "Status di mana pesan akan diubah"
 
 #: quodlibet/ext/events/headphonemon.py:162
 msgid "Pause on Headphone Unplug"
-msgstr ""
+msgstr "Jeda ketika Headphone Dicabut"
 
 #: quodlibet/ext/events/headphonemon.py:164
 msgid ""
 "Pauses in case headphones get unplugged and unpauses in case they get "
 "plugged in again."
 msgstr ""
+"Musik dijeda ketika headphone dicabut dan dimulai kembali ketika headphone "
+"kembali dipasang."
 
 #: quodlibet/ext/events/inhibit.py:52
 msgid "Inhibit Screensaver/Suspend"
@@ -2059,7 +2061,7 @@ msgstr ""
 #: quodlibet/ext/events/mqtt.py:219
 #, python-format
 msgid "Couldn't connect to %(host)s:%(port)d (%(msg)s)"
-msgstr ""
+msgstr "Tidak dapat menghubungkan ke %(host)s:%(port)d (%(msg)s)"
 
 #: quodlibet/ext/events/mqtt.py:222
 msgid "Connection error"
@@ -2071,7 +2073,7 @@ msgstr "Sinkronisasi MusicBrainz"
 
 #: quodlibet/ext/events/musicbrainzsync.py:37
 msgid "Syncs the rating of a song with MusicBrainz."
-msgstr ""
+msgstr "Sinkronkan rating lagu dengan MusicBrainz."
 
 #: quodlibet/ext/events/musicbrainzsync.py:82
 #: quodlibet/ext/events/qlscrobbler.py:512
@@ -2197,13 +2199,15 @@ msgstr ""
 
 #: quodlibet/ext/events/qlscrobbler.py:378
 msgid "AudioScrobbler Submission"
-msgstr ""
+msgstr "Pengiriman AudioScrobbler"
 
 #: quodlibet/ext/events/qlscrobbler.py:380
 msgid ""
 "Audioscrobbler client for Last.fm, Libre.fm and other Audioscrobbler "
 "services."
 msgstr ""
+"Klien Audioscrobler untuk Last.fm, Libre.fm, dan layanan Audioscrobbler "
+"lainnya."
 
 #: quodlibet/ext/events/qlscrobbler.py:500
 msgid "Authentication successful."
@@ -2281,7 +2285,7 @@ msgstr ""
 
 #: quodlibet/ext/events/randomalbum.py:25
 msgid "Random Album Playback"
-msgstr ""
+msgstr "Pemutaran Album Acak"
 
 #: quodlibet/ext/events/randomalbum.py:27
 msgid ""
@@ -2503,7 +2507,7 @@ msgstr "DUPLIKAT"
 
 #: quodlibet/ext/events/synchronize_to_device.py:57
 msgid "Synchronizing"
-msgstr "Menyinkronisasi"
+msgstr "Menyinkronkan"
 
 #: quodlibet/ext/events/synchronize_to_device.py:58
 msgid "Deleting"
@@ -2527,19 +2531,19 @@ msgstr "Tidak dapat mengatur nama berkas lagu."
 
 #: quodlibet/ext/events/synchronize_to_device.py:86
 msgid "Synchronize to Device"
-msgstr "Sinkronisasi ke Perangkat"
+msgstr "SInkronkan ke Perangkat"
 
 #: quodlibet/ext/events/synchronize_to_device.py:88
 msgid ""
 "Synchronizes all songs from the selected saved searches with the specified "
 "folder."
 msgstr ""
-"Sinkronisasi semua lagu dari pencarian tersimpan yang dipilih dalam folder "
+"Sinkronkan semua lagu dari pencarian tersimpan yang dipilih dalam folder "
 "tertentu."
 
 #: quodlibet/ext/events/synchronize_to_device.py:146
 msgid "Synchronize the following saved searches:"
-msgstr ""
+msgstr "Sinkronkan pencarian tersimpan berikut:"
 
 #: quodlibet/ext/events/synchronize_to_device.py:153
 msgid "The absolute path to your export location"
@@ -2557,6 +2561,9 @@ msgid ""
 "transfer it to your device with rsync. Or, when syncing many files to an "
 "Android Device, use adb-sync, which is much faster."
 msgstr ""
+"Untuk perangkat yang tersambung dengan MTP, ekspor ke folder tujuan lokal, "
+"lalu kirim ke perangkat anda dengan rsync. Atau, ketika menyinkronkan banyak "
+"file ke perangkat Android, gunakan adb-sync yang lebih cepat."
 
 #: quodlibet/ext/events/synchronize_to_device.py:191
 msgid "Destination path:"
@@ -2602,12 +2609,16 @@ msgid ""
 "Duplicate export paths detected! The export paths above can be edited before "
 "starting the synchronization."
 msgstr ""
+"Jalur ekspor duplikat terdeteksi! Jalur ekspor tersebut dapat disunting "
+"sebelum memulai sinkronisasi."
 
 #: quodlibet/ext/events/synchronize_to_device.py:293
 msgid ""
 "Existing files in the destination path will be deleted (except files named "
 "'cover.jpg')!"
 msgstr ""
+"Berkas yang ada di jalur tujuan akan dihapus (kecuali berkas bernama "
+"'cover.jpg')!"
 
 #: quodlibet/ext/events/synchronize_to_device.py:313
 msgid "Start synchronization"
@@ -2633,28 +2644,28 @@ msgstr ""
 
 #: quodlibet/ext/events/synchronize_to_device.py:706
 msgid "Starting synchronization preview"
-msgstr ""
+msgstr "Memulai pratinjau sinkronisasi"
 
 #. Summary labels
 #: quodlibet/ext/events/synchronize_to_device.py:710
 msgid "Synchronization preview in progress."
-msgstr ""
+msgstr "Pratinjau sinkronisasi sedang berlangsung."
 
 #: quodlibet/ext/events/synchronize_to_device.py:726
 msgid "Finished synchronization preview"
-msgstr ""
+msgstr "Pratinjau sinkronisasi selesai"
 
 #: quodlibet/ext/events/synchronize_to_device.py:735
 msgid "Stopping synchronization preview"
-msgstr ""
+msgstr "Menghentikan pratinjau sinkronisasi"
 
 #: quodlibet/ext/events/synchronize_to_device.py:736
 msgid "Synchronization preview was stopped."
-msgstr ""
+msgstr "Pratinjau sinkronisasi terhenti."
 
 #: quodlibet/ext/events/synchronize_to_device.py:738
 msgid "Synchronization preview has finished."
-msgstr ""
+msgstr "Pratinjau sinkronisasi selesai."
 
 #: quodlibet/ext/events/synchronize_to_device.py:768
 msgid "Stopped synchronization preview"
@@ -3800,11 +3811,11 @@ msgstr "Tidak bisa menyimpan \"%s\"."
 #: quodlibet/ext/songsmenu/albumart.py:471
 #, python-format
 msgid "[albumart] HTTP Error: %s"
-msgstr ""
+msgstr "[albumart] Galat HTTP: %s"
 
 #: quodlibet/ext/songsmenu/albumart.py:528
 msgid "Album Art Downloader"
-msgstr ""
+msgstr "Pengunduh Sampul"
 
 #: quodlibet/ext/songsmenu/albumart.py:581
 #, python-format
@@ -6395,11 +6406,11 @@ msgstr ""
 
 #: quodlibet/qltk/prefs.py:384
 msgid "Restrict album art to the specified filenames."
-msgstr ""
+msgstr "Batasi sampul hanya ke nama file spesifik."
 
 #: quodlibet/qltk/prefs.py:401
 msgid "Album Art"
-msgstr ""
+msgstr "Sampul"
 
 #: quodlibet/qltk/prefs.py:434
 msgid "Playback"
@@ -6750,14 +6761,14 @@ msgid "_Add Files"
 msgstr "_Tambah Berkas"
 
 #: quodlibet/qltk/quodlibetwindow.py:1488
-#, fuzzy, python-format
+#, python-format
 msgid "Are you sure you want to enqueue %d song?"
 msgid_plural "Are you sure you want to enqueue %d songs?"
-msgstr[0] "Apakah Anda yakin ingin menghapus semua lagu?"
+msgstr[0] "Anda yakin ingin memasukkan %d lagu ke antrean?"
 
 #: quodlibet/qltk/quodlibetwindow.py:1501
 msgid "_Enqueue"
-msgstr ""
+msgstr "_Tambah ke Antrean"
 
 #: quodlibet/qltk/ratingsmenu.py:25
 #, fuzzy, python-format
@@ -6783,7 +6794,7 @@ msgstr "Ubah _Peringkat"
 
 #: quodlibet/qltk/renamefiles.py:53
 msgid "Replace spaces with _underscores"
-msgstr ""
+msgstr "Ganti spasi dengan _garis bawah"
 
 #: quodlibet/qltk/renamefiles.py:63
 msgid "Replace [semi]colon delimiting with hyphens"
@@ -6824,7 +6835,7 @@ msgstr "Nama berkas"
 
 #: quodlibet/qltk/renamefiles.py:223
 msgid "_Move album art"
-msgstr ""
+msgstr "_Pindahkan sampul"
 
 #: quodlibet/qltk/renamefiles.py:227
 msgid ""
@@ -6833,7 +6844,7 @@ msgstr ""
 
 #: quodlibet/qltk/renamefiles.py:234
 msgid "_Overwrite album art at target"
-msgstr ""
+msgstr "_Timpa sampul ke tujuan"
 
 #: quodlibet/qltk/renamefiles.py:245
 msgid "_Remove empty directories"
@@ -6841,7 +6852,7 @@ msgstr ""
 
 #: quodlibet/qltk/renamefiles.py:251
 msgid "Album art"
-msgstr ""
+msgstr "Sampul"
 
 #: quodlibet/qltk/renamefiles.py:280
 msgid "New Name"
@@ -7622,11 +7633,11 @@ msgstr ""
 
 #: quodlibet/util/tags.py:106
 msgid "producer"
-msgstr ""
+msgstr "produser"
 
 #: quodlibet/util/tags.py:106
 msgid "producers"
-msgstr ""
+msgstr "produser"
 
 #: quodlibet/util/tags.py:106
 #, fuzzy
@@ -7832,7 +7843,7 @@ msgstr ""
 #: data/io.github.quodlibet.ExFalso.desktop.in:3
 #: data/io.github.quodlibet.ExFalso.appdata.xml.in:5
 msgid "Ex Falso"
-msgstr ""
+msgstr "Ex Falso"
 
 #: data/io.github.quodlibet.ExFalso.desktop.in:4
 msgid "Audio tag editor"
@@ -7860,7 +7871,7 @@ msgstr "Dengar, jelajah, atau sunting koleksi audio Anda"
 #: data/io.github.quodlibet.ExFalso.appdata.xml.in:9
 #: data/io.github.quodlibet.QuodLibet.appdata.xml.in:9
 msgid "The Quod Libet Development Team"
-msgstr ""
+msgstr "Tim Pengembang Quod Libet"
 
 #: data/io.github.quodlibet.ExFalso.appdata.xml.in:18
 msgid ""
